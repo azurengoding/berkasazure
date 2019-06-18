@@ -1,0 +1,2 @@
+# berkasazure
+storage
